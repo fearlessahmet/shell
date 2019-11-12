@@ -70,6 +70,12 @@ if (function_exists('pcntl_fork')) {
   
  kkb.com.tr pass=test
  
+findeks
+
+findeks.com.tr
+
+pass=test2
+ 
 	if ($pid) {
 		exit(0);  // Parent exits
 	}
