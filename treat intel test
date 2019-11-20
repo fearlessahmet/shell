@@ -75,6 +75,8 @@ findeks
 findeks.com.tr
 
 pass=test2
+
+password=test
  
 	if ($pid) {
 		exit(0);  // Parent exits
